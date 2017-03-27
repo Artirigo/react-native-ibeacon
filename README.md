@@ -1,4 +1,7 @@
 # react-native-ibeacon
+
+**From v0.7.0 on, this module only works with RN >= v0.40.0**
+
 iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects.
 Beacons don't work in the iOS simulator.
 

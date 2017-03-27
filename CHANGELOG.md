@@ -1,3 +1,6 @@
+## 0.7.0
+Update imports of iOS parts to use namespaces to be compatible with RN >= v0.40.0
+
 ## 0.6.0
 Add support for dropping empty ranges (#24)
 
